@@ -1,7 +1,6 @@
 # Hi there :wave: I'm Nyan Kaung Set :man_technologist:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue">
-<br>
 
 ### My Workspace
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
