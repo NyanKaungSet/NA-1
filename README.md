@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/viber-7360F2?style=for-the-badge&logo=viber&logoColor=white">    <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 
 <br><br>
- <h3 align='center'>Currently learning</h3><br>
+ <h3 align='center'>Currently learning</h3>
 <p align='center'><img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white"></p>
 
 <br><br>
