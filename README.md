@@ -1,4 +1,4 @@
-<h1 align='center', style="background-color:black;">
+<h1 align='center'>
   Hi there 👋 I'm Nyan Kaung Set 👨‍💻
 </h1>
 <p align='center'>Junior programmer from Yangon, Myanmar
