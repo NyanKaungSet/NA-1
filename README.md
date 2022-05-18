@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=Yaethwe">
+
 <h1 align='center'>
   Hi there 👋 I'm Nyan Kaung Set 👨‍💻
 </h1>
