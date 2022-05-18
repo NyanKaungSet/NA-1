@@ -2,7 +2,6 @@
   Hi there 👋 I'm Nyan Kaung Set 👨‍💻
 </h1>
 <p align='center'>Junior programmer from Yangon, Myanmar<br>
-  Member of [<img src="https://img.shields.io/badge/cooldevs-000000?style=for-the-badge&logo=cooldevs&logoColor=white">](https://cooldevs.netlify.app)<br>
   Member of <a href="https://cooldevs.netlify.app" target="_blank"><img src="https://img.shields.io/badge/cooldevs-000000?style=for-the-badge&logo=cooldevs&logoColor=white"></a>
   <br><br> 
   <img src="https://img.shields.io/badge/viber-7360F2?style=for-the-badge&logo=viber&logoColor=white">    <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
