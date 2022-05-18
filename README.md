@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Yaethwe">
+<img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet">
 
 <h1 align='center'>
   Hi there 👋 I'm Nyan Kaung Set 👨‍💻
