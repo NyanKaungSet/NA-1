@@ -8,7 +8,7 @@
 <p align='center'><img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white"></p>
 
 <br><br>
-<p align='center'><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabpot"></p>
+<p align='center'><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet"></p>
 <br><br>
 <h3 align='center'>My Workspace :computer:</h3>
 <p align='center'><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white"> <img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
@@ -18,6 +18,3 @@
 <p align='center'> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNyanKaungSet1212%2Fhit-counter"></p>
 
 *****
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?username=fabpot">
-<img src="https://github-profile-trophy.vercel.app/?username=fabpot">
