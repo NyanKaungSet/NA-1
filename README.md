@@ -19,7 +19,7 @@
 
 *****
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet">
-<img src="https://github-profile-trophy.vercel.app/?username=NyanKaungSet">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fabpot">
+<img src="https://github-profile-trophy.vercel.app/?username=fabpot">
 <img src="https://activity-graph.herokuapp.com/graph?username=NyanKaungSet&theme=minimal">
 <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet">
