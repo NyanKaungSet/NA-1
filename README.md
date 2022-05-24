@@ -18,3 +18,8 @@
 <p align='center'> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNyanKaungSet1212%2Fhit-counter"></p>
 
 *****
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet">
+<img src="https://github-profile-trophy.vercel.app/?username=NyanKaungSet">
+<img src="https://activity-graph.herokuapp.com/graph?username=NyanKaungSet&theme=minimal">
+<img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet">
