@@ -1,8 +1,8 @@
 <h1 align='center'>
   Hi there 👋 I'm Nyan Kaung Set 👨‍💻
 </h1>
-<p align='center'>Junior programmer from Yangon, Myanmar<br>
-  Member of : <br><a href="https://cooldevs.netlify.app"><img src="https://img.shields.io/badge/cooldevs-000000?style=for-the-badge&logo=cooldevs&logoColor=white"></a>
+<p align='center'>Junior programmer from Yangon, Myanmar<br><br>
+  <h3>Member of :</h3> <br><a href="https://cooldevs.netlify.app"><img src="https://img.shields.io/badge/cooldevs-000000?style=for-the-badge&logo=cooldevs&logoColor=white"></a>
 <br><br><br>
  <h3 align='center'>Currently learning </h3>
 <p align='center'> <!--img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"--> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white"></p>
