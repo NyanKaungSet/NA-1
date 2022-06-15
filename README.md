@@ -1,7 +1,7 @@
 <h1 align='center'>
   Hi there 👋 I'm Nyan Kaung Set 👨‍💻
 </h1>
-<p align='center'>Junior programmer from Yangon, Myanmar</p>
+<p align='center'>A junior programmer from Yangon, Myanmar</p>
  
  <h3 align='center'>Member of :</h3>
  <p align='center'>
