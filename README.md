@@ -23,7 +23,7 @@
 
 *****
 
-<img src="https://github-readme-stats.vercel.app/api?username=CartimDraluc">
+<!--img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet">
-<img src="https://github-profile-trophy.vercel.app/?username=CartimDraluc">
+<img src="https://github-profile-trophy.vercel.app/?username=NyanKaungSet"-->
 <!--img src="https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white"-->
