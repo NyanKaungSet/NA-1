@@ -13,9 +13,13 @@
 
 <br><br>
 <p align='center'>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&theme=blue-green"></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&theme=blue-green"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&theme=blue-green">
+</p>
 <br><br>
+
+
 <h3 align='center'>My Workspace :computer:</h3>
 <p align='center'><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white"> <img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
 <br>
@@ -25,8 +29,7 @@
 
 *****
 
-<!--img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet">
+<!--img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet">
 <img src="https://github-profile-trophy.vercel.app/?username=NyanKaungSet"-->
 <!--img src="https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white"-->
 
