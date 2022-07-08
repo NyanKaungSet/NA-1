@@ -15,7 +15,8 @@
 <p align='center'>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&theme=blue-green"> 
-  <!--img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&theme=blue-green"-->
+  <!--img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&theme=blue-green"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=blue-green"-->
 </p>
 <br><br>
 
@@ -34,4 +35,4 @@
 <!--img src="https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white"-->
 
 <!-- 67/128 -->
-<!-- 11 in total, 1 private, 1 public archive -->
+<!-- 11 in total, 1 private, 1 archive -->
