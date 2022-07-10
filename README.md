@@ -10,6 +10,7 @@
 <br>
  <h3 align='center'>Currently Learning : </h3>
 <p align='center'> <!--img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white"--> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></p>
+<hr>
 
 <br><br>
 <details>
@@ -21,6 +22,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=highcontrast">
   </p>
 </details>
+<hr>
 
 
 <h3 align='center'>My Workspace :computer:</h3>
