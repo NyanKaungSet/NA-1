@@ -15,10 +15,18 @@
 <p align='center'>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&theme=blue-green"> 
-  <!--img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&theme=blue-green"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=blue-green"-->
+  <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&theme=blue-green"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=blue-green">
 </p>
 <br><br>
+<details>
+  <summary>Github Statics</summary>
+  <p align=center>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&layout=compact&theme=highcontras"><br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&show_icons=true&count_private=true&theme=highcontrast"><br>
+    <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+  </p>
+</details>
 
 
 <h3 align='center'>My Workspace :computer:</h3>
