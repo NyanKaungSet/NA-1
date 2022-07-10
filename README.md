@@ -25,7 +25,14 @@
 <hr>
 
 <details>
-  <summary>:bar_chart: Languages</summary><br>
+  <summary>:book: Languages</summary><br>
+  <p align=center>
+  </p>
+</details>
+<hr>
+
+<details>
+  <summary>:trophy: Trophy</summary><br>
   <p align=center>
   </p>
 </details>
