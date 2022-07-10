@@ -12,17 +12,11 @@
 <p align='center'> <!--img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white"--> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></p>
 
 <br><br>
-<p align='center'>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&theme=blue-green"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&theme=blue-green"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=blue-green">
-</p>
-<br><br>
 <details>
   <summary>Github Statics</summary>
   <p align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&layout=compact&theme=highcontras"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&layout=compact&theme=highcontrast"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&show_icons=true&count_private=true&theme=highcontrast">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=highcontrast">
   </p>
