@@ -14,7 +14,7 @@
 
 <hr>
 <details>
-  <summary>Github Statics</summary>
+  <summary>Github Statistics</summary>
   <p align=center>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&layout=compact&theme=highcontrast"><br>
