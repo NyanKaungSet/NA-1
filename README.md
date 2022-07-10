@@ -15,7 +15,7 @@
 <details>
   <summary>Github Statics</summary>
   <p align=center>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=highcontrast">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&layout=compact&theme=highcontrast"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&show_icons=true&count_private=true&theme=highcontrast">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=highcontrast">
@@ -31,10 +31,6 @@
 <p align='center'> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNyanKaungSet1212%2Fhit-counter"></p>
 
 *****
-
-<!--img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet">
-<img src="https://github-profile-trophy.vercel.app/?username=NyanKaungSet"-->
-<!--img src="https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white"-->
 
 <!-- 67/128 -->
 <!-- 11 in total, 1 private, 1 archive -->
