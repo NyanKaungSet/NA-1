@@ -9,7 +9,7 @@
  <a href="https://github.com/Programmer-sClass"><img src="https://img.shields.io/badge/ProgrammersClass-000000?style=for-the-badge&logo=Programmer-sClass&logoColor=white"></a>
 <br>
  <h3 align='center'>Currently Learning : </h3>
-<p align='center'> <!--img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white"--> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></p>
+<p align='center'> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></p>
 <br><br>
 
 <hr>
