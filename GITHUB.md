@@ -13,4 +13,4 @@
 - They will ask `how many team members will be working with you` and `Are you a teacher or student`. Choose "Just Me" and "Student". Then continue.
 - Choose you are interested in using. Then continue.
 - Choose ***Continue For Free***.
-- And done you have ***Successfully create an account in Github***
+- And done you have ***Successfully create an account in Github!!! :clap :clap :clap***
