@@ -1,4 +1,4 @@
-<p align='center'><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNyanKaungSet1212%2Fhit-counter"> [![wakatime](https://wakatime.com/badge/user/bc330e1d-04b3-4516-bfb4-2b28f0dabda9.svg)](https://wakatime.com/@bc330e1d-04b3-4516-bfb4-2b28f0dabda9)
+<p align='center'><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNyanKaungSet1212%2Fhit-counter"> <img src="https://wakatime.com/badge/user/bc330e1d-04b3-4516-bfb4-2b28f0dabda9.svg">
 </p>
 
 <h1 align='center'>
