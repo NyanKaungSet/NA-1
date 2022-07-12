@@ -1,7 +1,7 @@
 <p align='center'> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNyanKaungSet1212%2Fhit-counter"></p>
 
 <h1 align='center'>
-  Hi there 👋 <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width=50px> I'm Nyan Kaung Set 👨‍💻
+  Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width=40px> I'm Nyan Kaung Set 👨‍💻
 </h1>
 <p align='center'>A junior programmer from Yangon, Myanmar :myanmar:</p>
  
