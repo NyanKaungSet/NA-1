@@ -19,7 +19,7 @@
 
 <hr>
 <details>
-  <summary><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white"> WakaTime</summary><br>
+  <summary><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white"></summary><br>
   <p align=center>
     <!---->
   </p>
