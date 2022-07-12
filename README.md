@@ -26,7 +26,7 @@
 
 <details>
   <summary>:book: Languages</summary><br>
-  <p align=center>
+  <p align='center'>
    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   </p>
 </details>
@@ -34,18 +34,19 @@
 
 <details>
   <summary>:trophy: Trophy</summary><br>
-  <p align=center>
+  <p align='center'>
    <img src="https://github-profile-trophy.vercel.app/?username=NyanKaungSet">
   </p>
 </details>
 <hr>
 
 <details>
-  <summary>Contact Me</summary><br
-  <p align=center>
+  <summary>Contact Me</summary><br>
+  <p align='center'>
     <a href="https://discord.com/users/908203066518564864/"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://t.me/NyanKaungSet"> <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
   </p>
 </details>
+<hr>
 
 
 <h3 align='center'>My Workspace :computer:</h3>
