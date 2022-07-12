@@ -1,3 +1,5 @@
+<p align='center'> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNyanKaungSet1212%2Fhit-counter"></p>
+
 <h1 align='center'>
   Hi there 👋 I'm Nyan Kaung Set 👨‍💻
 </h1>
@@ -50,11 +52,6 @@
   </p>
 </details>
 <hr>
-<br>
-
-<p align='center'> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNyanKaungSet1212%2Fhit-counter"></p>
-
-*****
 
 <!-- 67/128 -->
 <!-- 11 in total, 1 private, 1 archive -->
