@@ -2,7 +2,7 @@
 </p>
 
 <h1 align='center'>
-  Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width=40px> I'm Nyan Kaung Set 👨‍💻
+  Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width=30px> I'm Nyan Kaung Set 👨‍💻
 </h1>
 <p align='center'>A junior programmer from Yangon, Myanmar :myanmar:</p>
  
@@ -63,4 +63,5 @@
 <hr>
 
 <!-- 67/128 -->
+<!-- 67/1024 -->
 <!-- 11 in total, 1 private, 1 archive -->
