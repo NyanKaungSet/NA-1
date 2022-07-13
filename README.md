@@ -6,9 +6,8 @@
 </h1>
 
 - :round_pushpin: I'm from Yangon, Myanmar :myanmar:
-- :performing_arts: Pronoun He/Him :boy:
-- :books: Grade 10 (New) ***If I go to school***
-- :zap: Fun fact: I'm quite fat :rofl:
+- :eyes: Pronoun He/Him :boy:
+- :zap: Fun fact: I'm quite fat :stuck_out_tongue_closed_eyes:
 
  <h3 align='center'>Member of :</h3>
  <p align='center'>
