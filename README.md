@@ -7,6 +7,7 @@
 
 - :round_pushpin: I'm from Yangon, Myanmar :myanmar:
 - :performing_arts: Pronoun He/Him :boy:
+- :books: Grade 10 (New) ***If I go to school***
 - :zap: Fun fact: I'm quite fat :rofl:
 
  <h3 align='center'>Member of :</h3>
