@@ -7,9 +7,10 @@
 
 - :round_pushpin: I'm from Yangon, Myanmar :myanmar:
 - :eyes: Pronoun He/Him :boy:
-- :runner: Hobbies : Sleeping :zzz: , Eating :plate_with_cutlery: , Coding :keyboard:
 - :dollar: Money that I currently have :egg: ......<img src="https://c.tenor.com/Y5Gr8bnIOf0AAAAC/eye-roll-emoji.gif" align=center width=40px>
 - :zap: Fun fact: I'm quite fat :rofl:
+
+***Motto: Eating :plate_with_cutlery: , Sleeping :zzz: , Coding :keyboard: and Repeat***
 
  <h3 align='center'>Member of :</h3>
  <p align='center'>
