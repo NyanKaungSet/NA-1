@@ -12,7 +12,7 @@
 
 ***Motto: Eat :plate_with_cutlery: , Sleep :zzz: , Code :keyboard: and Repeat***
 
-<img src="https://c.tenor.com/6LS4ojqB4_UAAAAM/incredibles2-dash-parr.gif" width=200px><img src="https://c.tenor.com/0QyZLiiDasAAAAAC/sleep-sleeping-time.gif"width=200px>
+<img src="https://c.tenor.com/6LS4ojqB4_UAAAAM/incredibles2-dash-parr.gif" width=200px><img src="https://c.tenor.com/0QyZLiiDasAAAAAC/sleep-sleeping-time.gif" width=200px>
 
  <h3 align='center'>Member of :</h3>
  <p align='center'>
