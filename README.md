@@ -28,15 +28,8 @@
 <h3 align='center'>My Workspace :computer:</h3>
 <p align='center'><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white"> <img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
 
-<hr>
-<details>
-  <summary><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white"></summary><br>
-  <p align=center>
-    <img src="https://wakatime.com/share/@bc330e1d-04b3-4516-bfb4-2b28f0dabda9/009f4359-9e4d-4581-b276-6eb0a777493b.png" width=300px>
-  </p>
-</details>
-<hr>
 
+<hr>
 <details>
   <summary>:bar_chart: Github Statistics</summary><br>
   <p align=center>
