@@ -4,10 +4,11 @@
 <h1 align='center'>
   Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width=40px> I'm Nyan Kaung Set 👨‍💻
 </h1>
-<p align='center'>A junior programmer from Yangon, Myanmar :myanmar:</p>
 
- - :performing_arts:Pronouns : he/him :boy:
- - :zap:Fun fact: I'm quite fat :rofl:
+- :round_pushpin: I'm from Yangon, Myanmar :myanmar:
+- :performing_arts: Pronoun He/Him :boy:
+- :zap: Fun fact: I'm quite fat :rofl:
+
  <h3 align='center'>Member of :</h3>
  <p align='center'>
  <a href="https://cooldevs.netlify.app"><img src="https://img.shields.io/badge/cooldevs-000000?style=for-the-badge&logo=cooldevs&logoColor=white"></a>
