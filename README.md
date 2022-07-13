@@ -11,8 +11,9 @@
 - :zap: Fun fact: I'm quite fat :rofl:
 <br>
 
-<em align=center>Motto: Eat :plate_with_cutlery: , Sleep :zzz: , Code :keyboard: and Repeat</em><br>
-<img src="https://c.tenor.com/6LS4ojqB4_UAAAAM/incredibles2-dash-parr.gif" width=220px> <img src="https://c.tenor.com/0QyZLiiDasAAAAAC/sleep-sleeping-time.gif" height=179px> <img src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" height=179px> <img src="https://c.tenor.com/Dr_w8whfTlsAAAAM/refresh-repeat-refresh.gif" height=179px>
+<p align=center>
+  <b><i>Motto: Eat :plate_with_cutlery: , Sleep :zzz: , Code :keyboard: and Repeat</i></b><br>
+<img src="https://c.tenor.com/6LS4ojqB4_UAAAAM/incredibles2-dash-parr.gif" width=220px> <img src="https://c.tenor.com/0QyZLiiDasAAAAAC/sleep-sleeping-time.gif" height=179px> <img src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" height=179px> <img src="https://c.tenor.com/Dr_w8whfTlsAAAAM/refresh-repeat-refresh.gif" height=179px></p>
 <br>
 
  <h3 align='center'>Member of :</h3>
