@@ -22,7 +22,7 @@
 <details>
   <summary><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white"></summary><br>
   <p align=center>
-    <img src="https://wakatime.com/share/@bc330e1d-04b3-4516-bfb4-2b28f0dabda9/009f4359-9e4d-4581-b276-6eb0a777493b.png">
+    <img src="https://wakatime.com/share/@bc330e1d-04b3-4516-bfb4-2b28f0dabda9/009f4359-9e4d-4581-b276-6eb0a777493b.png" width=300px>
   </p>
 </details>
 <hr>
