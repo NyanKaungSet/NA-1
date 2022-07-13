@@ -2,7 +2,7 @@
 </p>
 
 <h1 align='center'>
-  Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width=30px> I'm Nyan Kaung Set 👨‍💻
+  Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width=40px> I'm Nyan Kaung Set 👨‍💻
 </h1>
 <p align='center'>A junior programmer from Yangon, Myanmar :myanmar:</p>
  
