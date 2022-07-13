@@ -8,7 +8,7 @@
 - :round_pushpin: I'm from Yangon, Myanmar :myanmar:
 - :eyes: Pronoun He/Him :boy:
 - :runner: Hobbies : Sleeping :zzz:, Eating :yum:, Coding :keyboard:
-- :dollar: Money that I currently have :egg: ...... :roll_eyes:
+- :dollar: Money that I currently have :egg: ...... :roll_eyes: :broken_heart:
 - :zap: Fun fact: I'm quite fat :stuck_out_tongue_closed_eyes:
 
  <h3 align='center'>Member of :</h3>
