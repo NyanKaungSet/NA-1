@@ -63,7 +63,6 @@
     <a href="https://discord.com/users/908203066518564864/"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://t.me/NyanKaungSet"> <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
   </p>
 </details>
-<hr>
 
 <!-- 68/128 -->
 <!-- 68/1024 -->
