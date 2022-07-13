@@ -9,7 +9,7 @@
 - :eyes: Pronoun He/Him :boy:
 - :runner: Hobbies : Sleeping :zzz: , Eating :plate_with_cutlery: , Coding :keyboard:
 - :dollar: Money that I currently have :egg: ...... :roll_eyes:
-- :zap: Fun fact: I'm quite fat :stuck_out_tongue_closed_eyes:
+- :zap: Fun fact: I'm quite fat :shushing_face:<!--:stuck_out_tongue_closed_eyes:-->
 
  <h3 align='center'>Member of :</h3>
  <p align='center'>
