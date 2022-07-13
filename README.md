@@ -21,7 +21,7 @@
  <a href="https://cooldevs.netlify.app"><img src="https://img.shields.io/badge/cooldevs-000000?style=for-the-badge&logo=cooldevs&logoColor=white"></a>
  <a href="https://github.com/Programmer-sClass"><img src="https://img.shields.io/badge/ProgrammersClass-000000?style=for-the-badge&logo=Programmer-sClass&logoColor=white"></a>
 <br>
- <h3 align='center'>Currently Learning : </h3>
+ <h3 align='center'>Currently Learning :</h3>
 <p align='center'> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></p>
 <br>
 
