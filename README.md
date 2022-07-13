@@ -10,7 +10,9 @@
 - :dollar: Money that I currently have :egg: ......<img src="https://c.tenor.com/Y5Gr8bnIOf0AAAAC/eye-roll-emoji.gif" align=center width=40px>
 - :zap: Fun fact: I'm quite fat :rofl:
 
-***Motto: Eating :plate_with_cutlery: , Sleeping :zzz: , Coding :keyboard: and Repeat***
+***Motto: Eat :plate_with_cutlery: , Sleep :zzz: , Code :keyboard: and Repeat***
+
+<img src="https://c.tenor.com/6LS4ojqB4_UAAAAM/incredibles2-dash-parr.gif"><img src=https://c.tenor.com/0QyZLiiDasAAAAAC/sleep-sleeping-time.gif">
 
  <h3 align='center'>Member of :</h3>
  <p align='center'>
