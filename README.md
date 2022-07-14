@@ -31,6 +31,15 @@
 <br><br>
 
 <details>
+  <summary>Wakatime</summary><br>
+  <p align=center>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+  </p>
+</details>
+<hr>
+
+<details>
   <summary>:bar_chart: Github Statistics</summary><br>
   <p align=center>
     <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"><br-->
