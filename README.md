@@ -30,14 +30,14 @@
 
 <br><br>
 
-<details>
+<!--details>
   <summary>Wakatime</summary><br>
   <p align=center>
     <!--START_SECTION:waka-->
     <!--END_SECTION:waka-->
   </p>
 </details>
-<hr>
+<hr-->
 
 <details>
   <summary>:bar_chart: Github Statistics</summary><br>
