@@ -72,6 +72,14 @@
     <a href="https://discord.com/users/908203066518564864/"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://t.me/NyanKaungSet"> <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
   </p>
 </details>
+<hr>
+
+<details>
+  <summary>:laughing: ၾMemes</summary><br>
+  <p align='center'>
+  ဝimg src="https://pbs.twimg.com/media/EACSL_pXYAIjAau.jpg">
+  </p>
+</details>
 
 <!-- 81/128 -->
 <!-- 81/1024 -->
