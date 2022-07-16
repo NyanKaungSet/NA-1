@@ -75,7 +75,7 @@
 <hr>
 
 <details>
-  <summary>:cry: Relatable Memes</summary><br>
+  <summary>Relatable Memes</summary><br>
   <p align='center'>
   <img src="https://pbs.twimg.com/media/CV36bgQWwAAPmzL.png">
   </p>
