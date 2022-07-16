@@ -75,9 +75,9 @@
 <hr>
 
 <details>
-  <summary>:laughing: ၾMemes</summary><br>
+  <summary>:laughing: Memes</summary><br>
   <p align='center'>
-  ဝimg src="https://pbs.twimg.com/media/EACSL_pXYAIjAau.jpg">
+  <img src="https://pbs.twimg.com/media/EACSL_pXYAIjAau.jpg">
   </p>
 </details>
 
