@@ -75,9 +75,9 @@
 <hr>
 
 <details>
-  <summary>:laughing: Memes</summary><br>
+  <summary>:cry: Memes</summary><br>
   <p align='center'>
-  <img src="https://pbs.twimg.com/media/EACSL_pXYAIjAau.jpg">
+  <img src="https://pbs.twimg.com/media/CV36bgQWwAAPmzL.png">
   </p>
 </details>
 
