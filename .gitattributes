@@ -1,7 +1,3 @@
 # Markdown
 *.md linguist-detectable=true
 *.md linguist-documentation=false
-
-# YML
-*.yml linguist-detectable=true
-*.yml linguist-documentation=false
