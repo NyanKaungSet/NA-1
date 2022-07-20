@@ -72,6 +72,8 @@
   </p>
 </details>
 
+<img alt="github contribution snake animation" src="https://github.com/NyanKaungSet/NyanKaungSet/blob/output/github-contribution-grid-snake.svg">
+
 <!-- 83/128 -->
 <!-- 83/1024 -->
 <!-- 12 in total, 1 private, 1 archive -->
