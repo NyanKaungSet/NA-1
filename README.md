@@ -1,8 +1,10 @@
 <p align='center'><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNyanKaungSet1212%2Fhit-counter"> <img src="https://wakatime.com/badge/user/bc330e1d-04b3-4516-bfb4-2b28f0dabda9.svg">
 </p>
 
-<h1 align='center'>
-  Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width=40px> I'm Nyan Kaung Set 👨‍💻
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&color=000000&center=true&vCenter=true&width=800&lines=Hello+World!;I'm+Nyan+Kaung+Set;+A+person+who+love+to+eat,+sleep+and+code+:)">
+  </a><!--background=363636-->
 </h1>
 
 - :round_pushpin: I'm from Yangon, Myanmar :myanmar:
@@ -72,6 +74,12 @@
   </p>
 </details>
 
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&color=000000&background=363636&center=true&vCenter=true&width=800&lines=Thanks+For+Visiting!">
+  </a>
+</h1>
 <!-- 85/128 -->
 <!-- 85/1024 -->
 <!-- 13 in total, 1 private, 1 archive -->
