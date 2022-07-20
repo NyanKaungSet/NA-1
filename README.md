@@ -72,7 +72,7 @@
   </p>
 </details>
 
-<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake animation" src="https://github.com/NyanKaungSet/NyanKaungSet/blob/output/github-contribution-grid-snake.svg">
 
 <!-- 83/128 -->
 <!-- 83/1024 -->
