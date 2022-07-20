@@ -68,18 +68,19 @@
 <hr>
 
 <details>
-  <summary>Relatable Memes</summary><br>
+  <summary>:rofl: Random Memes</summary><br>
   <p align='center'>
-  <img src="https://pbs.twimg.com/media/CV36bgQWwAAPmzL.png">
+  <!--img src="https://pbs.twimg.com/media/CV36bgQWwAAPmzL.png"-->
+    <img src="https://readme-jokes.vercel.app/api">
   </p>
 </details>
-
+<hr>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&color=FFFFFF&background=363636&center=true&vCenter=true&width=800&lines=Thanks+For+Visiting!">
   </a>
 </h1>
-<!-- 85/128 -->
-<!-- 85/1024 -->
+<!-- 86/128 -->
+<!-- 86/1024 -->
 <!-- 13 in total, 1 private, 1 archive -->
