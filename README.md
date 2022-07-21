@@ -37,7 +37,7 @@
   <p align=center>
     <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"><br-->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&layout=compact&theme=highcontrast"><br>
-    ***Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br><br>
+    <b>*Note</b>: Top languages is just a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&show_icons=true&count_private=true&theme=highcontrast">
     <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=highcontrast"-->
   </p>
