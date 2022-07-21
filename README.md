@@ -37,6 +37,7 @@
   <p align=center>
     <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"><br-->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&layout=compact&theme=highcontrast"><br>
+    ***Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&show_icons=true&count_private=true&theme=highcontrast">
     <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=highcontrast"-->
   </p>
@@ -81,6 +82,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&color=FFFFFF&background=363636&center=true&vCenter=true&width=800&height=80&lines=Thanks+For+Visiting!">
   </a>
 </h1>
-<!-- 86/128 -->
-<!-- 86/1024 -->
+<!-- 89/128 -->
+<!-- 89/1024 -->
 <!-- 13 in total, 1 private, 1 archive -->
