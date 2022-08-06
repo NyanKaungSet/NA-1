@@ -48,7 +48,7 @@ Currently only two backgrounds are available.<br>
 <hr>
 
 ### Text Colors
-Currently only two backgrounds are available.<br>
+Currently only four colors are available.<br>
 `txt-white` = #fff<br>
 `txt-black` = #000<br>
 `txt-light-black` = #333<br>
@@ -59,14 +59,13 @@ Currently only two backgrounds are available.<br>
 The classes are named using the format {property}{sides}-{size}
 - m - for classes that set margin
 - p - for classes that set padding
-
-
+<br>
 - t - for classes that set margin-top or padding-top
 - b - for classes that set margin-bottom or padding-bottom
 - l - for classes that set margin-left or padding-left
 - r - for classes that set margin-right or padding-right
 - blank - for classes that set a margin or padding on all 4 sides of the element
-
+<br>
 - `1` = 5px
 - `2` = 10px
 - `3` = 15px
