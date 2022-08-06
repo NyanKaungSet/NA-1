@@ -1,6 +1,6 @@
 # CSS Framework
 
-This is my own CSS Framework :smile:. Add the class to your html tags. Mine are not responsive like Bootstrap. But you can use. Please :star:ing my repo, if you like :hug:.
+This is my own CSS Framework :smile:. Add the class to your html tags. Mine are not responsive like Bootstrap. But you can use. :star: my repo, if you like :hugs:.
 
 # Usage
 ### Body
