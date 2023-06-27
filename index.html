@@ -1,16 +1,111 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Morse Code Decoder and Encoder</title>
+  <title>Morse Code Decoder/Encoder</title>
+  <style>
+    .input-box {
+      margin-bottom: 10px;
+    }
+  </style>
 </head>
 <body>
-    <h1>Morse Code Decoder and Encoder</h1>
-    <input type="text" id="morseInput" placeholder="Enter Morse code">
-    <button onclick="decodeOrEncode()">Decode/Encode</button>
-    <input type="text" id="output" placeholder="Decoded/Encoded output" readonly>
-    <script src="morseCode.js"></script>
+  <h1>Morse Code Decoder/Encoder</h1>
+
+  <div>
+    <label for="decode-input">Input for Decoding:</label>
+    <input id="decode-input" class="input-box" type="text">
+    <button onclick="decodeMorse()">Decode</button>
+  </div>
+
+  <div>
+    <label for="encode-input">Input for Encoding:</label>
+    <input id="encode-input" class="input-box" type="text">
+    <button onclick="encodeMorse()">Encode</button>
+  </div>
+
+  <div>
+    <label for="output">Output:</label>
+    <textarea id="output" rows="5" cols="50" readonly></textarea>
+  </div>
+
+  <script>
+    // Morse code dictionary
+    const morseCode = {
+      '.-': 'a',
+      '-...': 'b',
+      '-.-.': 'c',
+      '-..': 'd',
+      '.': 'e',
+      '..-.': 'f',
+      '--.': 'g',
+      '....': 'h',
+      '..': 'i',
+      '.---': 'j',
+      '-.-': 'k',
+      '.-..': 'l',
+      '--': 'm',
+      '-.': 'n',
+      '---': 'o',
+      '.--.': 'p',
+      '--.-': 'q',
+      '.-.': 'r',
+      '...': 's',
+      '-': 't',
+      '..-': 'u',
+      '...-': 'v',
+      '.--': 'w',
+      '-..-': 'x',
+      '-.--': 'y',
+      '--..': 'z',
+      '.----': '1',
+      '..---': '2',
+      '...--': '3',
+      '....-': '4',
+      '.....': '5',
+      '-....': '6',
+      '--...': '7',
+      '---..': '8',
+      '----.': '9',
+      '-----': '0',
+    };
+
+    // Function to decode Morse code
+    function decodeMorse() {
+      const input = document.getElementById('decode-input').value.trim();
+
+      // Split the input by spaces to get individual Morse code characters
+      const morseChars = input.split(' ');
+
+      // Decode each Morse code character
+      const decodedChars = morseChars.map((morseChar) => {
+        // Look up the corresponding character in the Morse code dictionary
+        return morseCode[morseChar] || '';
+      });
+
+      // Join the decoded characters to form the final output
+      const output = decodedChars.join('');
+
+      document.getElementById('output').value = output;
+    }
+
+    // Function to encode text to Morse code
+    function encodeMorse() {
+      const input = document.getElementById('encode-input').value.trim().toLowerCase();
+
+      // Split the input text into individual characters
+      const characters = input.split('');
+
+      // Encode each character to Morse code
+      const encodedChars = characters.map((char) => {
+        // Look up the corresponding Morse code in the dictionary
+        return Object.keys(morseCode).find((key) => morseCode[key] === char) || '';
+      });
+
+      // Join the encoded Morse code characters with spaces to form the final output
+      const output = encodedChars.join(' ');
+
+      document.getElementById('output').value = output;
+    }
+  </script>
 </body>
 </html>
