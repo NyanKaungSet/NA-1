@@ -1,111 +1,148 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>Morse Code Decoder/Encoder</title>
-  <style>
-    .input-box {
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
-<body>
-  <h1>Morse Code Decoder/Encoder</h1>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <!--BootStrap 5-->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        
+        <!--Fonts-->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans&family=Righteous&display=swap" rel="stylesheet">
 
-  <div>
-    <label for="decode-input">Input for Decoding:</label>
-    <input id="decode-input" class="input-box" type="text">
-    <button onclick="decodeMorse()">Decode</button>
-  </div>
+        <!--Icons-->
+        <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+        <title>Cartim Portfolio</title>
+    </head>
+    <body class="text-white">
+        <nav class="navbar sticky-top navbar-expand-sm bg-dark navbar-dark">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="index.html">Cartim</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link" href="#home">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#aboutMe">About</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#contact">Contact</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
 
-  <div>
-    <label for="encode-input">Input for Encoding:</label>
-    <input id="encode-input" class="input-box" type="text">
-    <button onclick="encodeMorse()">Encode</button>
-  </div>
+        <section id="home">
+            <h1 class="text-center">Hello World!</h1>
+              <h2 class="textContainer">I'm <span class="text-1">Cartim <i class="bi bi-emoji-smile"></i></span><span class="text-2">a Web developer <i class="bi bi-laptop"></i></span><span class="text-3">from Asia <i class="bi bi-globe-asia-australia"></i></span></h2>
+              <p class="mx-5 mt-5" style="font-size: 20px;">
+                “Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.”<br>
+                - Pele <i class="bi bi-person-arms-up"></i> <i class="bi bi-trophy"></i>
+              </p>
 
-  <div>
-    <label for="output">Output:</label>
-    <textarea id="output" rows="5" cols="50" readonly></textarea>
-  </div>
+              <p class="mx-5 mt-5" style="font-size: 20px;">
+                “Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”<br>
+                - Bill Gates <i class="bi bi-microsoft"></i>
+              </p>
+        </section><hr class="text-white" style="border-top: 2px solid #fff;opacity: 1;">
 
-  <script>
-    // Morse code dictionary
-    const morseCode = {
-      '.-': 'a',
-      '-...': 'b',
-      '-.-.': 'c',
-      '-..': 'd',
-      '.': 'e',
-      '..-.': 'f',
-      '--.': 'g',
-      '....': 'h',
-      '..': 'i',
-      '.---': 'j',
-      '-.-': 'k',
-      '.-..': 'l',
-      '--': 'm',
-      '-.': 'n',
-      '---': 'o',
-      '.--.': 'p',
-      '--.-': 'q',
-      '.-.': 'r',
-      '...': 's',
-      '-': 't',
-      '..-': 'u',
-      '...-': 'v',
-      '.--': 'w',
-      '-..-': 'x',
-      '-.--': 'y',
-      '--..': 'z',
-      '.----': '1',
-      '..---': '2',
-      '...--': '3',
-      '....-': '4',
-      '.....': '5',
-      '-....': '6',
-      '--...': '7',
-      '---..': '8',
-      '----.': '9',
-      '-----': '0',
-    };
+        <section id="aboutMe">
+            <h2 class="text-center">About Me</h2>
+            <div class="container-flud d-flex justify-content-center align-items-center flex-wrap">
+              <div class="info-box">
+                <h3>Bio</h3>
+                <ul>
+                  <li>Committed high school student</li>
+                  <li>Thirlled to learn everything</li>
+                </ul>
 
-    // Function to decode Morse code
-    function decodeMorse() {
-      const input = document.getElementById('decode-input').value.trim();
+              </div>
+              <div class="info-box">
+                <h3>Education</h3>
+                <ul>
+                  <li>National Curriculum <i class="bi bi-check-circle-fill"></i></li>
+                  <li><i class="bi bi-arrow-right"></i> IGCSE (O-level) <i class="bi bi-hourglass-split"></i></li>
+                  <li><i class="bi bi-mortarboard"></i></li>
+                  <li><i class="bi bi-briefcase"></i></li>
+                </ul>
+              </div>
+            </div>
+            <div class="container-flud d-flex justify-content-center align-items-center flex-wrap">
+              <div class="info-box">
+                <h3>Experiences</h3>
+                <ul>
+                  <li>Started learning from time to time since June 2022.</li>
+                  <li>Created a few super simple webpages.</li>
+                </ul>
+              </div>
+              <div class="info-box">
+                <h3>Learning</h3>
+                <p>
+                  <img class="my-1" alt="html5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+                  <img class="my-1" alt="css3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+                  <img class="my-1" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+                </p>
+              </div>
+            </div>
+            <div class="container-flud d-flex justify-content-center align-items-center flex-wrap">
+              <div class="info-box w-75">
+                <h3>Hobbies / Fun Facts</h3>
+                <ul>
+                  <li>Playing Video Games <i class="bi bi-phone-landscape"></i></li>
+                  <li>Coding and Animation <i class="bi bi-keyboard"></i></li>
+                  <li>Listening To Music <i class="bi bi-headphones"></i></li>
+                  <li>Love to watch K-dramas <i class="bi bi-tv"></i></li>
+              </ul>
+              </div>
+            </div>
+        </section><hr class="text-white" style="border-top: 2px solid #fff;opacity: 1;">
 
-      // Split the input by spaces to get individual Morse code characters
-      const morseChars = input.split(' ');
+        <section id="contact">
+            <h2 class="text-center">Contact Info</h2>
+            <div class="container formContainer">
+              <form action="https://formsubmit.co/e5f3f8180747584f2aee8b3588047861" method="POST">
+                  <input type="text" name="_honey" style="display:none;">
+                  <input type="hidden" name="_subject" value="Message from My Portfolio">
+                  <input type="text" id="name" name="Name" placeholder="Name" required>
+                  <input type="email" id="email" name="Email" placeholder="Email Address" required>
+                  <textarea id="message" rows="4" name="Message" placeholder="Say Hello!"></textarea>
+                  <button type="submit">Send</button>
+              </form>
+          </div><hr class="text-white" style="border-top: 2px solid #fff;opacity: 0.5;">
 
-      // Decode each Morse code character
-      const decodedChars = morseChars.map((morseChar) => {
-        // Look up the corresponding character in the Morse code dictionary
-        return morseCode[morseChar] || '';
-      });
+          <div class="container-flud d-flex justify-content-center align-items-center flex-wrap my-5">
+            <div class="contact-box">
+              <ul>
+                <li><a onclick="NA()" href="#contact"><i class="bi bi-envelope-at-fill"></i> Email</a></li>
+                <li><a onclick="NA()" href="#contact"><i class="bi bi-github"></i> GitHub</a></li>
+              </ul>
+            </div>
+            <div class="contact-box">
+              <ul>
+                <li><i class="bi bi-geo-alt"></i> Address : N/A</li>
+                <li><i class="bi bi-telephone"></i> Phone : N/A</li>
+              </ul>
+            </div>
+          </div>
+        </section>
 
-      // Join the decoded characters to form the final output
-      const output = decodedChars.join('');
+        <footer class="container-fluid d-flex justify-content-center align-items-center w-100 bg-dark p-3" style="background-color: #2f6f6f !important;">
+            <p class="m-0 p-0">Copyright © 2022 Cartim</p>
+        </footer>
+      
+        <button onclick="topFunction()" id="BackToTop"><ion-icon size="large" name="arrow-up-outline"></ion-icon></button>
 
-      document.getElementById('output').value = output;
-    }
-
-    // Function to encode text to Morse code
-    function encodeMorse() {
-      const input = document.getElementById('encode-input').value.trim().toLowerCase();
-
-      // Split the input text into individual characters
-      const characters = input.split('');
-
-      // Encode each character to Morse code
-      const encodedChars = characters.map((char) => {
-        // Look up the corresponding Morse code in the dictionary
-        return Object.keys(morseCode).find((key) => morseCode[key] === char) || '';
-      });
-
-      // Join the encoded Morse code characters with spaces to form the final output
-      const output = encodedChars.join(' ');
-
-      document.getElementById('output').value = output;
-    }
-  </script>
-</body>
+        <script src="script.js"></script>
+    </body>
 </html>

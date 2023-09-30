@@ -1,26 +1,52 @@
-body {
-  font-family: Arial, sans-serif;
-}
+*{margin: 0;padding: 0;box-sizing: border-box;}
+body{background: url(low-poly-grid-haikei.svg);}
+li > a{text-decoration: none !important; color: #fff !important;}
+section, footer {font-family: 'Righteous', cursive !important;}
+h1{padding-top: 66px;font-size: 2.5em !important;}
+h2{padding-top: 66px;}
 
-h1 {
-  text-align: center;
-  background-color: #f0f0f0;
-  padding: 20px;
-  margin-bottom: 20px;
-}
+.nav-link{font-family: 'Righteous', cursive;font-size: 19px !important;}
+.navbar-brand{font-family: 'Pixelify Sans', cursive;font-size: 27px !important;font-weight: bolder;}
+.info-box{background-color: #0c4b50;width: 330px;min-height: 200px;border: 1px solid #f5f1eb;margin: 8px;padding: 10px;border-radius: 20px;font-size: 17.5px;font-weight: 100;}
 
-input {
-  width: 80%;
-  padding: 10px;
-  margin: 5px;
-  border: 1px solid #ccc;
-}
+.contact-box{background-color: #0c4b50;width: 330px;min-height: 100px;border: 1px solid #f5f1eb;margin: 8px;padding: 10px;border-radius: 20px;font-size: 17.5px;display: flex;align-items: center;flex-wrap: wrap;}
+.formContainer{width: 100%;padding-bottom:40px;border-radius: 20px;margin: auto;display: flex;justify-content: center;align-items: center;}
+.formContainer form{background-color: #0c4b50;display: flex;flex-direction: column;padding: 2vw 4vw;width: 90%;max-width: 600px;border-radius: 10px;}
+.formContainer form input,.formContainer form textarea{color: #e2d9d9;border: 0;margin: 10px 0;padding: 10px;outline: none;background-color: #9aa6a7;font-size: 16px;}
+.formContainer form button{padding: 15px;background-color: #ff5361;color: 18px;color: #fff;border: 0;outline: none;cursor: pointer;}
 
-button {
-  background-color: #4CAF50;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  cursor: pointer;
-  text-align: center;
+button#BackToTop {display: none;position: fixed;bottom: 20px;right: 20px;border: none;outline: none;cursor: pointer;border-radius: 17px;padding: 13px;background-color: #5a4e08;color: #fff;}
+
+.textContainer{font-size: 1.75em !important;position: relative;padding-left: 7px;}
+.textContainer > span{position: absolute;left: 53px;}
+.textContainer > span:nth-child(1){visibility: visible;animation: txt1 10s ease infinite;}
+.textContainer > span:nth-child(2){visibility: hidden;animation: txt2 10s ease infinite;}
+.textContainer > span:nth-child(3){visibility: hidden;animation: txt3 10s ease infinite;}
+
+@keyframes txt1{
+    2%{visibility: visible;}
+    3%{visibility: visible;}
+    25%{visibility: hidden;}
+    50%{visibility: hidden;}
+    75%{visibility: hidden;}
+    99%{visibility: hidden;}
+    100%{visibility: visible;}
+
+}@keyframes txt2{
+    0%{visibility: hidden;}
+    25%{visibility: hidden;}
+    50%{visibility: visible;}
+    74%{visibility: visible;}
+    75%{visibility: hidden;}
+    100%{visibility: hidden;}
+
+}@keyframes txt3{
+    0%{visibility: hidden;}
+    25%{visibility: hidden;}
+    50%{visibility: hidden;}
+    75%{visibility: hidden;}
+    76%{visibility: visible;}
+    97%{visibility: visible;}
+    98%{visibility: hidden;}
+    100%{visibility: hidden;}
 }
