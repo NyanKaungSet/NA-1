@@ -17,8 +17,8 @@ h2{padding-top: 66px;}
 
 button#BackToTop {display: none;position: fixed;bottom: 20px;right: 20px;border: none;outline: none;cursor: pointer;border-radius: 17px;padding: 13px;background-color: #5a4e08;color: #fff;}
 
-.textContainer{font-size: 1.75em !important;position: relative;padding-left: 7px;}
-.textContainer > span{position: absolute;left: 53px;}
+.textContainer{position: relative;}
+.textContainer > span{position: absolute;}
 .textContainer > span:nth-child(1){visibility: visible;animation: txt1 10s ease infinite;}
 .textContainer > span:nth-child(2){visibility: hidden;animation: txt2 10s ease infinite;}
 .textContainer > span:nth-child(3){visibility: hidden;animation: txt3 10s ease infinite;}
